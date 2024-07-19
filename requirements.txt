@@ -1,0 +1,7 @@
+flask
+torch
+ultralytics
+transformers
+Pillow
+docker
+gradio
